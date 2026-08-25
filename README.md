@@ -53,136 +53,239 @@ Either way, I learn something.
 
 ---
 
-## What I Build
+# What I Build
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Frontend
+<h3>▸ Frontend</h3>
 
-Modern interfaces built around:
-
-* UI & UX
-* Responsive design
-* Animations & motion
-* Performance
-* Component architecture
-* Clean visual systems
-
-</td>
-
-<td width="50%" valign="top">
-
-### ◈ Discord Systems
-
-Complete Discord ecosystems involving:
-
-* Bots
-* Tickets
-* Moderation
-* Economy
-* Payments
-* Automation
-* Community systems
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ◈ AI & Automation
-
-Exploring systems involving:
-
-* AI assistants
-* Context & memory
-* AI-powered workflows
-* Automation
-* API integrations
-* Intelligent tools
-
-</td>
-
-<td width="50%" valign="top">
-
-### ◈ Backend
-
-Currently expanding into:
-
-* REST APIs
-* Databases
-* Redis
-* Authentication
-* Application architecture
-* Full-stack development
-
-</td>
-</tr>
-</table>
-
----
-
-## Selected Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🖤 Darke Store Bot
-
-A Discord bot built around **AI, support, moderation, backups and analytics**.
-
-**Stack**
-
-`Python` `discord.py` `Groq`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛒 Minecraft Marketplace
-
-A Discord marketplace designed around **listings, negotiation, tickets, reputation and payments**.
-
-**Stack**
-
-`Node.js` `Discord.js`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎫 Ticket + XP
-
-A complete Discord system combining **tickets, XP, moderation, payments and AI**.
-
-**Stack**
-
-`Node.js` `Discord.js` `Groq`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ✦ K4NAE Portfolio
-
-My personal portfolio focused on **interface design, motion, performance and experimentation**.
-
-**Stack**
-
-`React` `TypeScript` `Tailwind CSS`
+<p>
+I build interfaces that aim to be <strong>clean, responsive and alive</strong>.
+</p>
 
 <br>
 
-→ [k4nae.vercel.app](https://k4nae.vercel.app)
+<img src="https://img.shields.io/badge/UI_&_UX-111827?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive-111827?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Motion-111827?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Performance-111827?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Components-111827?style=flat-square&logoColor=white" />
+
+<br><br>
+
+<sub>
+Interfaces · Design Systems · Micro-interactions · Accessibility
+</sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>▸ Discord Systems</h3>
+
+<p>
+I create complete Discord ecosystems instead of just simple bots.
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Bots-111827?style=flat-square&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Tickets-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Moderation-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Economy-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Payments-111827?style=flat-square" />
+
+<br><br>
+
+<sub>
+Community · Automation · Staff Systems · Server Architecture
+</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>▸ AI & Automation</h3>
+
+<p>
+Exploring systems where software can understand context and handle work automatically.
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/AI_Assistants-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Memory-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Workflows-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/APIs-111827?style=flat-square" />
+
+<br><br>
+
+<sub>
+Context · Intelligence · Integrations · Automation
+</sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>▸ Backend & Architecture</h3>
+
+<p>
+Moving beyond the interface and learning how the systems behind it actually work.
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/REST_APIs-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Databases-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Redis-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Auth-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Architecture-111827?style=flat-square" />
+
+<br><br>
+
+<sub>
+Scalability · Data · Services · Full-Stack Development
+</sub>
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<sub>
+<strong>Interfaces are what people see.</strong><br>
+<strong>Systems are what make them work.</strong>
+</sub>
+
+</div>
+
+---
+
+# Selected Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>◈ Darke Store Bot</h3>
+
+<p>
+A Discord system focused on <strong>AI, support, moderation, backups and analytics</strong>.
+</p>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="28" />
+
+<br><br>
+
+<code>Python</code> <code>discord.py</code> <code>Groq</code>
+
+<br><br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>◈ Minecraft Marketplace</h3>
+
+<p>
+A marketplace built around <strong>listings, negotiation, tickets, reputation and payments</strong>.
+</p>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="28" />
+
+<br><br>
+
+<code>Node.js</code> <code>Discord.js</code>
+
+<br><br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>◈ Ticket + XP</h3>
+
+<p>
+A complete Discord platform combining <strong>tickets, XP, moderation, payments and AI</strong>.
+</p>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="28" />
+
+<br><br>
+
+<code>Node.js</code> <code>Discord.js</code> <code>Groq</code>
+
+<br><br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>◈ K4NAE Portfolio</h3>
+
+<p>
+My personal portfolio focused on <strong>interface design, motion, performance and experimentation</strong>.
+</p>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind&theme=dark" height="28" />
+
+<br><br>
+
+<code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code>
+
+<br><br>
+
+<a href="https://k4nae.vercel.app">
+  <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="70%" />
+
+<br>
+
+<sub>
+More experiments are being built. Most of them start as "this would be cool" and end somewhere between architecture and chaos.
+</sub>
+
+</div>
 
 ---
 
@@ -201,55 +304,22 @@ My focus is on subtle motion that improves the experience without turning the in
 
 ---
 
-## Currently Learning
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend;REST+APIs;AI+Systems;Discord+Architecture;Automation;Full-Stack+Development" />
-
-</div>
-
-I'm currently moving from being mainly a **Frontend Developer** toward becoming a more complete **Full-Stack Developer**.
-
----
-
-## GitHub Activity
+## GitHub
 
 <div align="center">
 
 <a href="https://github.com/the-k4nae">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=the-k4nae&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=ffffff" />
-</a>
-
-<a href="https://github.com/the-k4nae">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-k4nae&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=9ca3af" />
+  <img src="https://img.shields.io/badge/GitHub-the--k4nae-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-k4nae&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-k4nae&theme=github_dark" width="95%" />
 
-</div>
+<br><br>
 
----
-
-## Philosophy
-
-<div align="center">
-
-```text
-CREATE
-   ↓
-BUILD
-   ↓
-BREAK
-   ↓
-UNDERSTAND
-   ↓
-IMPROVE
-   ↓
-REPEAT
-```
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-k4nae&theme=github_dark" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-k4nae&theme=github_dark" width="45%" />
 
 </div>
 
@@ -261,7 +331,7 @@ REPEAT
 
 <sub>Made with curiosity, caffeine and a questionable amount of debugging.</sub>
 
-<br>
+<br><br>
 
 <strong>K4NAE</strong>
 
