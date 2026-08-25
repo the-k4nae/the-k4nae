@@ -1,30 +1,40 @@
+<div align="center">
+
 # K4NAE
 
 ### Frontend Developer · Discord Systems · AI · Automation
 
-> I build interfaces, systems and experiments by turning ideas into something real.
+**Building interfaces, systems and experiments that turn ideas into real products.**
 
-<div align="center">
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-101118?style=flat-square\&logo=github\&logoColor=white)](https://github.com/the-k4nae)
-[![Portfolio](https://img.shields.io/badge/Portfolio-101118?style=flat-square\&logo=vercel\&logoColor=white)](https://k4nae.vercel.app)
+<a href="https://github.com/the-k4nae">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://k4nae.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## ABOUT
+## About
 
-I'm **K4NAE**, a developer focused on **Frontend, Discord systems, AI and automation**.
+I'm **K4NAE**, a developer focused on **Frontend development, Discord systems, AI and automation**.
 
-I started with Frontend development and I'm currently expanding into **Backend, APIs, databases and application architecture**.
+I started with interfaces and gradually moved deeper into **Backend, APIs, databases and system architecture**.
 
-Most of what I learn comes from building.
-I experiment, break things, figure out why they broke, and then make them better.
+I learn by building things.
+
+Sometimes they work.
+Sometimes they explode spectacularly.
+
+Either way, I learn something.
 
 ---
 
-## STACK
+## Tech Stack
 
 <div align="center">
 
@@ -34,34 +44,84 @@ I experiment, break things, figure out why they broke, and then make them better
 
 ---
 
-## CURRENT FOCUS
+## What I Build
 
-```text
-FOCUS
-├── Backend & APIs
-├── AI & Automation
-├── Discord Systems
-└── Application Architecture
+<table>
+<tr>
+<td width="50%">
 
-BUILDING
-├── Web Applications
-├── Discord Bots
-├── AI Systems
-├── Automation Tools
-└── Developer Utilities
-```
+### Frontend
+
+Building modern interfaces with a focus on:
+
+* UI & UX
+* Responsive design
+* Animations
+* Performance
+* Component architecture
+
+</td>
+
+<td width="50%">
+
+### Discord Systems
+
+Developing complete Discord ecosystems involving:
+
+* Bots
+* Tickets
+* Moderation
+* Economy
+* Payments
+* Automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### AI & Automation
+
+Experimenting with:
+
+* AI assistants
+* Context & memory
+* AI powered workflows
+* Automation
+* API integrations
+
+</td>
+
+<td width="50%">
+
+### Backend
+
+Currently expanding into:
+
+* REST APIs
+* Databases
+* Redis
+* Authentication
+* Application architecture
+
+</td>
+</tr>
+</table>
 
 ---
 
-## SELECTED PROJECTS
+## Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Darke Store Bot
+### Darke Store Bot
 
-Discord bot focused on **AI, support, moderation, backups and analytics**.
+A Discord bot built around **AI, support, moderation, backups and analytics**.
+
+**Stack**
 
 `Python` `Discord.py` `Groq`
 
@@ -69,9 +129,11 @@ Discord bot focused on **AI, support, moderation, backups and analytics**.
 
 <td width="50%" valign="top">
 
-### ◈ Minecraft Marketplace
+### Minecraft Marketplace
 
-Discord marketplace focused on **listings, negotiation, tickets, reputation and payments**.
+A Discord marketplace designed around **listings, negotiation, tickets, reputation and payments**.
+
+**Stack**
 
 `Node.js` `Discord.js`
 
@@ -81,9 +143,11 @@ Discord marketplace focused on **listings, negotiation, tickets, reputation and 
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Ticket + XP
+### Ticket + XP
 
-Discord system combining **tickets, XP, moderation, payments and AI**.
+A complete Discord system combining **tickets, XP, moderation, payments and AI**.
+
+**Stack**
 
 `Node.js` `Discord.js` `Groq`
 
@@ -91,13 +155,17 @@ Discord system combining **tickets, XP, moderation, payments and AI**.
 
 <td width="50%" valign="top">
 
-### ◈ Portfolio
+### K4NAE Portfolio
 
-Personal portfolio focused on **UI, animations, performance and user experience**.
+My personal portfolio focused on **interface design, animations, performance and experimentation**.
+
+**Stack**
 
 `React` `TypeScript` `Tailwind`
 
-[Visit portfolio ↗](https://k4nae.vercel.app)
+<br>
+
+→ [k4nae.vercel.app](https://k4nae.vercel.app)
 
 </td>
 </tr>
@@ -105,67 +173,43 @@ Personal portfolio focused on **UI, animations, performance and user experience*
 
 ---
 
-## GITHUB
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=the-k4nae&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9"
-height="160"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-k4nae&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"
-height="160"
-/>
-
-</div>
-
----
-
-## ACTIVITY
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=the-k4nae&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true"
-width="100%"
-/>
-
-</div>
-
----
-
-## PHILOSOPHY
+## Currently
 
 ```text
-CREATE
-  ↓
-TEST
-  ↓
-BREAK
-  ↓
-UNDERSTAND
-  ↓
-IMPROVE
-  ↓
-REPEAT
+01  Backend
+02  APIs
+03  AI Systems
+04  Discord Architecture
+05  Automation
+06  Full-Stack Development
 ```
 
-I don't just want to use technology.
+I'm currently moving from being mainly a **Frontend Developer** toward becoming a more complete **Full-Stack Developer**.
 
-I want to **understand it, experiment with it and build things that are actually useful**.
+---
+
+## GitHub
+
+<div align="center">
+
+<a href="https://github.com/the-k4nae">
+  <img src="https://img.shields.io/badge/GitHub-the--k4nae-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br><br>
+
+**Code → Experiment → Break → Understand → Improve**
+
+</div>
 
 ---
 
 <div align="center">
 
-### CREATE · TEST · LEARN · EVOLVE
-
-[GitHub](https://github.com/the-k4nae) · [Portfolio](https://k4nae.vercel.app)
+### CREATE · BUILD · BREAK · LEARN · EVOLVE
 
 <br>
 
-`K4NAE`
+<sub>Made by <strong>K4NAE</strong></sub>
 
 </div>
