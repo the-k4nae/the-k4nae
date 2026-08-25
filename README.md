@@ -1,10 +1,8 @@
 <div align="center">
 
-# K4NAE
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:151b24,100:0d1117&height=180&section=header&text=K4NAE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Discord%20Systems%20%C2%B7%20AI%20%C2%B7%20Automation&descAlignY=60&descSize=17" width="100%" />
 
-### Frontend Developer · Discord Systems · AI · Automation
-
-**Building interfaces, systems and experiments that turn ideas into real products.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+interfaces+that+feel+alive.;Turning+ideas+into+real+products.;Frontend+%E2%86%92+Backend+%E2%86%92+Full-Stack.;Code+%C2%B7+Experiment+%C2%B7+Break+%C2%B7+Understand+%C2%B7+Improve" />
 
 <br>
 
@@ -25,9 +23,10 @@ I'm **K4NAE**, a developer focused on **Frontend development, Discord systems, A
 
 I started with interfaces and gradually moved deeper into **Backend, APIs, databases and system architecture**.
 
-I learn by building things.
+I learn by building.
 
-Sometimes they work.
+Sometimes things work.
+
 Sometimes they explode spectacularly.
 
 Either way, I learn something.
@@ -38,7 +37,17 @@ Either way, I learn something.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,sqlite,redis,git,github,vscode&theme=dark" />
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
+
+### Backend & Systems
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,sqlite,redis&theme=dark" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
@@ -48,25 +57,26 @@ Either way, I learn something.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Frontend
+### ◈ Frontend
 
-Building modern interfaces with a focus on:
+Modern interfaces built around:
 
 * UI & UX
 * Responsive design
-* Animations
+* Animations & motion
 * Performance
 * Component architecture
+* Clean visual systems
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### Discord Systems
+### ◈ Discord Systems
 
-Developing complete Discord ecosystems involving:
+Complete Discord ecosystems involving:
 
 * Bots
 * Tickets
@@ -74,28 +84,30 @@ Developing complete Discord ecosystems involving:
 * Economy
 * Payments
 * Automation
+* Community systems
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### AI & Automation
+### ◈ AI & Automation
 
-Experimenting with:
+Exploring systems involving:
 
 * AI assistants
 * Context & memory
-* AI powered workflows
+* AI-powered workflows
 * Automation
 * API integrations
+* Intelligent tools
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### Backend
+### ◈ Backend
 
 Currently expanding into:
 
@@ -104,6 +116,7 @@ Currently expanding into:
 * Redis
 * Authentication
 * Application architecture
+* Full-stack development
 
 </td>
 </tr>
@@ -117,19 +130,19 @@ Currently expanding into:
 <tr>
 <td width="50%" valign="top">
 
-### Darke Store Bot
+### 🖤 Darke Store Bot
 
 A Discord bot built around **AI, support, moderation, backups and analytics**.
 
 **Stack**
 
-`Python` `Discord.py` `Groq`
+`Python` `discord.py` `Groq`
 
 </td>
 
 <td width="50%" valign="top">
 
-### Minecraft Marketplace
+### 🛒 Minecraft Marketplace
 
 A Discord marketplace designed around **listings, negotiation, tickets, reputation and payments**.
 
@@ -143,7 +156,7 @@ A Discord marketplace designed around **listings, negotiation, tickets, reputati
 <tr>
 <td width="50%" valign="top">
 
-### Ticket + XP
+### 🎫 Ticket + XP
 
 A complete Discord system combining **tickets, XP, moderation, payments and AI**.
 
@@ -155,13 +168,13 @@ A complete Discord system combining **tickets, XP, moderation, payments and AI**
 
 <td width="50%" valign="top">
 
-### K4NAE Portfolio
+### ✦ K4NAE Portfolio
 
-My personal portfolio focused on **interface design, animations, performance and experimentation**.
+My personal portfolio focused on **interface design, motion, performance and experimentation**.
 
 **Stack**
 
-`React` `TypeScript` `Tailwind`
+`React` `TypeScript` `Tailwind CSS`
 
 <br>
 
@@ -173,32 +186,70 @@ My personal portfolio focused on **interface design, animations, performance and
 
 ---
 
-## Currently
+## Motion & Interaction
 
-```text
-01  Backend
-02  APIs
-03  AI Systems
-04  Discord Architecture
-05  Automation
-06  Full-Stack Development
-```
+I like interfaces that don't just **exist**.
+
+They **respond**.
+
+My focus is on subtle motion that improves the experience without turning the interface into a carnival ride:
+
+`Micro-interactions` · `Page transitions` · `Hover states` · `Scroll animations` · `Loading states` · `Interactive components`
+
+> Motion should communicate something.
+> Not just move because it can.
+
+---
+
+## Currently Learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend;REST+APIs;AI+Systems;Discord+Architecture;Automation;Full-Stack+Development" />
+
+</div>
 
 I'm currently moving from being mainly a **Frontend Developer** toward becoming a more complete **Full-Stack Developer**.
 
 ---
 
-## GitHub
+## GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/the-k4nae">
-  <img src="https://img.shields.io/badge/GitHub-the--k4nae-181717?style=for-the-badge&logo=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=the-k4nae&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=ffffff" />
+</a>
+
+<a href="https://github.com/the-k4nae">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-k4nae&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=9ca3af" />
 </a>
 
 <br><br>
 
-**Code → Experiment → Break → Understand → Improve**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-k4nae&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681" />
+
+</div>
+
+---
+
+## Philosophy
+
+<div align="center">
+
+```text
+CREATE
+   ↓
+BUILD
+   ↓
+BREAK
+   ↓
+UNDERSTAND
+   ↓
+IMPROVE
+   ↓
+REPEAT
+```
 
 </div>
 
@@ -206,10 +257,12 @@ I'm currently moving from being mainly a **Frontend Developer** toward becoming 
 
 <div align="center">
 
-### CREATE · BUILD · BREAK · LEARN · EVOLVE
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:151b24,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" />
+
+<sub>Made with curiosity, caffeine and a questionable amount of debugging.</sub>
 
 <br>
 
-<sub>Made by <strong>K4NAE</strong></sub>
+<strong>K4NAE</strong>
 
 </div>
