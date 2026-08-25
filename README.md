@@ -15,6 +15,12 @@
 
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1c2430&height=1&section=header" width="55%" />
+</div>
+
 ---
 
 ## About
@@ -29,6 +35,12 @@ Sometimes things work.
 Sometimes they explode spectacularly.
 
 Either way, I learn something.
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1c2430&height=1&section=header" width="55%" />
+</div>
 
 ---
 
@@ -54,6 +66,12 @@ Either way, I learn something.
 
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1c2430&height=1&section=header" width="55%" />
+</div>
+
 ---
 
 # What I Build
@@ -62,9 +80,10 @@ Either way, I learn something.
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-<h3>▸ Frontend</h3>
+<h3>▸ FRONTEND</h3>
 
 <p>
 I build interfaces that aim to be <strong>clean, responsive and alive</strong>.
@@ -72,11 +91,11 @@ I build interfaces that aim to be <strong>clean, responsive and alive</strong>.
 
 <br>
 
-<img src="https://img.shields.io/badge/UI_&_UX-111827?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive-111827?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Motion-111827?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Performance-111827?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Components-111827?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/UI_&_UX-10161f?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive-10161f?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Motion-10161f?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Performance-10161f?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Components-10161f?style=flat-square&logoColor=white" />
 
 <br><br>
 
@@ -88,7 +107,7 @@ Interfaces · Design Systems · Micro-interactions · Accessibility
 
 <td width="50%" valign="top">
 
-<h3>▸ Discord Systems</h3>
+<h3>▸ DISCORD SYSTEMS</h3>
 
 <p>
 I create complete Discord ecosystems instead of just simple bots.
@@ -96,11 +115,11 @@ I create complete Discord ecosystems instead of just simple bots.
 
 <br>
 
-<img src="https://img.shields.io/badge/Bots-111827?style=flat-square&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/Tickets-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Moderation-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Economy-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Payments-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Bots-10161f?style=flat-square&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Tickets-10161f?style=flat-square" />
+<img src="https://img.shields.io/badge/Moderation-10161f?style=flat-square" />
+<img src="https://img.shields.io/badge/Economy-10161f?style=flat-square" />
+<img src="https://img.shields.io/badge/Payments-10161f?style=flat-square" />
 
 <br><br>
 
@@ -109,12 +128,14 @@ Community · Automation · Staff Systems · Server Architecture
 </sub>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-<h3>▸ AI & Automation</h3>
+<h3>▸ AI & AUTOMATION</h3>
 
 <p>
 Exploring systems where software can understand context and handle work automatically.
@@ -122,10 +143,10 @@ Exploring systems where software can understand context and handle work automati
 
 <br>
 
-<img src="https://img.shields.io/badge/AI_Assistants-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Memory-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Workflows-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/APIs-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Assistants-10161f?style=flat-square" />
+<img src="https://img.shields.io/badge/Memory-10161f?style=flat-square" />
+<img src="https://img.shields.io/badge/Workflows-10161f?style=flat-square" />
+<img src="https://img.shields.io/badge/APIs-10161f?style=flat-square" />
 
 <br><br>
 
@@ -137,7 +158,7 @@ Context · Intelligence · Integrations · Automation
 
 <td width="50%" valign="top">
 
-<h3>▸ Backend & Architecture</h3>
+<h3>▸ BACKEND & ARCHITECTURE</h3>
 
 <p>
 Moving beyond the interface and learning how the systems behind it actually work.
@@ -145,11 +166,11 @@ Moving beyond the interface and learning how the systems behind it actually work
 
 <br>
 
-<img src="https://img.shields.io/badge/REST_APIs-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Databases-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Redis-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Auth-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Architecture-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/REST_APIs-10161f?style=flat-square" />
+<img src="https://img.shields.io/badge/Databases-10161f?style=flat-square" />
+<img src="https://img.shields.io/badge/Redis-10161f?style=flat-square" />
+<img src="https://img.shields.io/badge/Auth-10161f?style=flat-square" />
+<img src="https://img.shields.io/badge/Architecture-10161f?style=flat-square" />
 
 <br><br>
 
@@ -158,16 +179,27 @@ Scalability · Data · Services · Full-Stack Development
 </sub>
 
 </td>
+
 </tr>
 </table>
 
 <br>
+
+<div align="center">
 
 <sub>
 <strong>Interfaces are what people see.</strong><br>
 <strong>Systems are what make them work.</strong>
 </sub>
 
+</div>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1c2430&height=1&section=header" width="55%" />
 </div>
 
 ---
@@ -181,7 +213,7 @@ Scalability · Data · Services · Full-Stack Development
 
 <td width="50%" valign="top">
 
-<h3>◈ Darke Store Bot</h3>
+<h3>◈ DARKE STORE BOT</h3>
 
 <p>
 A Discord system focused on <strong>AI, support, moderation, backups and analytics</strong>.
@@ -205,7 +237,7 @@ A Discord system focused on <strong>AI, support, moderation, backups and analyti
 
 <td width="50%" valign="top">
 
-<h3>◈ Minecraft Marketplace</h3>
+<h3>◈ MINECRAFT MARKETPLACE</h3>
 
 <p>
 A marketplace built around <strong>listings, negotiation, tickets, reputation and payments</strong>.
@@ -233,7 +265,7 @@ A marketplace built around <strong>listings, negotiation, tickets, reputation an
 
 <td width="50%" valign="top">
 
-<h3>◈ Ticket + XP</h3>
+<h3>◈ TICKET + XP</h3>
 
 <p>
 A complete Discord platform combining <strong>tickets, XP, moderation, payments and AI</strong>.
@@ -257,7 +289,7 @@ A complete Discord platform combining <strong>tickets, XP, moderation, payments 
 
 <td width="50%" valign="top">
 
-<h3>◈ K4NAE Portfolio</h3>
+<h3>◈ K4NAE PORTFOLIO</h3>
 
 <p>
 My personal portfolio focused on <strong>interface design, motion, performance and experimentation</strong>.
@@ -284,7 +316,7 @@ My personal portfolio focused on <strong>interface design, motion, performance a
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="70%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1c2430&height=1&section=header" width="45%" />
 
 <br>
 
@@ -292,6 +324,12 @@ My personal portfolio focused on <strong>interface design, motion, performance a
 More experiments are being built. Most of them start as "this would be cool" and end somewhere between architecture and chaos.
 </sub>
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1c2430&height=1&section=header" width="55%" />
 </div>
 
 ---
@@ -308,6 +346,12 @@ My focus is on subtle motion that improves the experience without turning the in
 
 > Motion should communicate something.
 > Not just move because it can.
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1c2430&height=1&section=header" width="55%" />
+</div>
 
 ---
 
@@ -330,13 +374,23 @@ My focus is on subtle motion that improves the experience without turning the in
 
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1c2430&height=1&section=header" width="55%" />
+</div>
+
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:151b24,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" />
 
-<sub>Made with curiosity, caffeine and a questionable amount of debugging.</sub>
+<br>
+
+<sub>
+Made with curiosity, caffeine and a questionable amount of debugging.
+</sub>
 
 <br><br>
 
