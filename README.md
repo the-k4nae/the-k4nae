@@ -1,23 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:151b24,100:0d1117&height=180&section=header&text=K4NAE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Discord%20Systems%20%C2%B7%20AI%20%C2%B7%20Automation&descAlignY=60&descSize=17" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+interfaces+that+feel+alive.;Turning+ideas+into+real+products.;Frontend+%E2%86%92+Backend+%E2%86%92+Full-Stack.;Code+%C2%B7+Experiment+%C2%B7+Break+%C2%B7+Understand+%C2%B7+Improve" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b10,45:10151d,70:161c26,100:080b10&height=190&section=header&text=K4NAE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Discord%20Systems%20%C2%B7%20AI%20%C2%B7%20Automation&descAlignY=61&descSize=17" width="100%" />
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=720&lines=Building+interfaces+that+feel+alive.;Turning+ideas+into+real+products.;Frontend+%E2%86%92+Backend+%E2%86%92+Full-Stack.;Code+%C2%B7+Experiment+%C2%B7+Break+%C2%B7+Understand+%C2%B7+Improve" />
+
+<br><br>
 
 <a href="https://github.com/the-k4nae">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://k4nae.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=the-k4nae&style=flat-square&color=0d1117&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## About
+<div align="center">
+
+### `ABOUT`
+
+</div>
+
+<table>
+<tr>
+<td width="100%" valign="top">
 
 I'm **K4NAE**, a developer focused on **Frontend development, Discord systems, AI and automation**.
 
@@ -31,41 +46,65 @@ Sometimes they explode spectacularly.
 
 Either way, I learn something.
 
----
+</td>
+</tr>
+</table>
 
-## Tech Stack
+---
 
 <div align="center">
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
-
-### Backend & Systems
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,sqlite,redis&theme=dark" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+### `TECH STACK`
 
 </div>
-
----
-
-# What I Build
 
 <div align="center">
 
 <table>
 <tr>
+<td align="center" width="33%">
+
+#### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
+
+</td>
+
+<td align="center" width="33%">
+
+#### Backend & Systems
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,sqlite,redis&theme=dark" />
+
+</td>
+
+<td align="center" width="33%">
+
+#### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### `WHAT I BUILD`
+
+<br>
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
-<h3>▸ Frontend</h3>
+### ◇ Frontend
 
-<p>
-I build interfaces that aim to be <strong>clean, responsive and alive</strong>.
-</p>
+I build interfaces that aim to be **clean, responsive and alive**.
 
 <br>
 
@@ -85,11 +124,9 @@ Interfaces · Design Systems · Micro-interactions · Accessibility
 
 <td width="50%" valign="top">
 
-<h3>▸ Discord Systems</h3>
+### ◇ Discord Systems
 
-<p>
 I create complete Discord ecosystems instead of just simple bots.
-</p>
 
 <br>
 
@@ -111,11 +148,9 @@ Community · Automation · Staff Systems · Server Architecture
 <tr>
 <td width="50%" valign="top">
 
-<h3>▸ AI & Automation</h3>
+### ◇ AI & Automation
 
-<p>
-Exploring systems where software can understand context and handle work automatically.
-</p>
+Exploring systems where software can **understand context and handle work automatically**.
 
 <br>
 
@@ -134,11 +169,9 @@ Context · Intelligence · Integrations · Automation
 
 <td width="50%" valign="top">
 
-<h3>▸ Backend & Architecture</h3>
+### ◇ Backend & Architecture
 
-<p>
 Moving beyond the interface and learning how the systems behind it actually work.
-</p>
 
 <br>
 
@@ -169,19 +202,23 @@ Scalability · Data · Services · Full-Stack Development
 
 ---
 
-# Selected Projects
-
 <div align="center">
+
+### `SELECTED PROJECTS`
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>◈ Darke Store Bot</h3>
+<div align="center">
 
-<p>
-A Discord system focused on <strong>AI, support, moderation, backups and analytics</strong>.
-</p>
+### ◈ Darke Store Bot
+
+</div>
+
+A Discord system focused on **AI, support, moderation, backups and analytics**.
 
 <br>
 
@@ -189,7 +226,7 @@ A Discord system focused on <strong>AI, support, moderation, backups and analyti
 
 <br><br>
 
-<code>Python</code> <code>discord.py</code> <code>Groq</code>
+`Python` · `discord.py` · `Groq`
 
 <br><br>
 
@@ -201,11 +238,13 @@ A Discord system focused on <strong>AI, support, moderation, backups and analyti
 
 <td width="50%" valign="top">
 
-<h3>◈ Minecraft Marketplace</h3>
+<div align="center">
 
-<p>
-A marketplace built around <strong>listings, negotiation, tickets, reputation and payments</strong>.
-</p>
+### ◈ Minecraft Marketplace
+
+</div>
+
+A marketplace built around **listings, negotiation, tickets, reputation and payments**.
 
 <br>
 
@@ -213,7 +252,7 @@ A marketplace built around <strong>listings, negotiation, tickets, reputation an
 
 <br><br>
 
-<code>Node.js</code> <code>Discord.js</code>
+`Node.js` · `Discord.js`
 
 <br><br>
 
@@ -227,11 +266,13 @@ A marketplace built around <strong>listings, negotiation, tickets, reputation an
 <tr>
 <td width="50%" valign="top">
 
-<h3>◈ Ticket + XP</h3>
+<div align="center">
 
-<p>
-A complete Discord platform combining <strong>tickets, XP, moderation, payments and AI</strong>.
-</p>
+### ◈ Ticket + XP
+
+</div>
+
+A complete Discord platform combining **tickets, XP, moderation, payments and AI**.
 
 <br>
 
@@ -239,7 +280,7 @@ A complete Discord platform combining <strong>tickets, XP, moderation, payments 
 
 <br><br>
 
-<code>Node.js</code> <code>Discord.js</code> <code>Groq</code>
+`Node.js` · `Discord.js` · `Groq`
 
 <br><br>
 
@@ -251,11 +292,13 @@ A complete Discord platform combining <strong>tickets, XP, moderation, payments 
 
 <td width="50%" valign="top">
 
-<h3>◈ K4NAE Portfolio</h3>
+<div align="center">
 
-<p>
-My personal portfolio focused on <strong>interface design, motion, performance and experimentation</strong>.
-</p>
+### ◈ K4NAE Portfolio
+
+</div>
+
+My personal portfolio focused on **interface design, motion, performance and experimentation**.
 
 <br>
 
@@ -263,7 +306,7 @@ My personal portfolio focused on <strong>interface design, motion, performance a
 
 <br><br>
 
-<code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code>
+`React` · `TypeScript` · `Tailwind CSS`
 
 <br><br>
 
@@ -275,38 +318,62 @@ My personal portfolio focused on <strong>interface design, motion, performance a
 </tr>
 </table>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="70%" />
+<div align="center">
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="65%" />
+
+<br><br>
 
 <sub>
-More experiments are being built. Most of them start as "this would be cool" and end somewhere between architecture and chaos.
+More experiments are being built.<br>
+Most of them start as <strong>"this would be cool"</strong> and end somewhere between architecture and chaos.
 </sub>
 
 </div>
 
 ---
 
-## Motion & Interaction
+<div align="center">
+
+### `MOTION & INTERACTION`
+
+</div>
+
+<div align="center">
 
 I like interfaces that don't just **exist**.
 
 They **respond**.
 
-My focus is on subtle motion that improves the experience without turning the interface into a carnival ride:
+<br>
 
-`Micro-interactions` · `Page transitions` · `Hover states` · `Scroll animations` · `Loading states` · `Interactive components`
+My focus is on subtle motion that improves the experience without turning the interface into a carnival ride.
 
-> Motion should communicate something.
+<br><br>
+
+<img src="https://img.shields.io/badge/Micro--interactions-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Page_Transitions-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Hover_States-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Scroll_Animations-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Loading_States-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Interactive_Components-111827?style=flat-square" />
+
+<br><br>
+
+> Motion should communicate something.<br>
 > Not just move because it can.
+
+</div>
 
 ---
 
-## GitHub
-
 <div align="center">
+
+### `GITHUB`
+
+<br>
 
 <a href="https://github.com/the-k4nae">
   <img src="https://img.shields.io/badge/GitHub-the--k4nae-0d1117?style=for-the-badge&logo=github&logoColor=white" />
@@ -319,6 +386,7 @@ My focus is on subtle motion that improves the experience without turning the in
 <br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-k4nae&theme=github_dark" width="45%" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-k4nae&theme=github_dark" width="45%" />
 
 </div>
@@ -327,12 +395,40 @@ My focus is on subtle motion that improves the experience without turning the in
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:151b24,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" />
+### `A LITTLE MORE K4NAE`
 
-<sub>Made with curiosity, caffeine and a questionable amount of debugging.</sub>
+<br>
+
+> Build something.
+>
+> Break something.
+>
+> Understand why it broke.
+>
+> Improve it.
+>
+> Repeat.
+
+<br>
+
+<sub>
+Made with curiosity, caffeine and a questionable amount of debugging.
+</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b10,45:10151d,70:161c26,100:080b10&height=130&section=footer&animation=fadeIn" width="100%" />
+
+<br>
+
+<strong>K4NAE</strong>
 
 <br><br>
 
-<strong>K4NAE</strong>
+<sub>Frontend · Systems · AI · Automation</sub>
 
 </div>
