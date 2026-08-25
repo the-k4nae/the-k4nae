@@ -1,10 +1,8 @@
-# `K4NAE`
+# K4NAE
 
 ### Frontend Developer · Discord Systems · AI · Automation
 
-> Building interfaces, systems and experiments by turning ideas into something real.
-
-<br>
+> I build interfaces, systems and experiments by turning ideas into something real.
 
 <div align="center">
 
@@ -15,17 +13,18 @@
 
 ---
 
-## `ABOUT`
+## ABOUT
 
 I'm **K4NAE**, a developer focused on **Frontend, Discord systems, AI and automation**.
 
-I started with Frontend development and I'm now expanding into **Backend, APIs, databases and application architecture**.
+I started with Frontend development and I'm currently expanding into **Backend, APIs, databases and application architecture**.
 
-I learn by building, experimenting and breaking things until I understand how they work.
+Most of what I learn comes from building.
+I experiment, break things, figure out why they broke, and then make them better.
 
 ---
 
-## `STACK`
+## STACK
 
 <div align="center">
 
@@ -35,24 +34,26 @@ I learn by building, experimenting and breaking things until I understand how th
 
 ---
 
-## `CURRENTLY`
+## CURRENT FOCUS
 
 ```text
 FOCUS
-├─ Backend · APIs · AI
-├─ Discord Systems
-└─ Application Architecture
+├── Backend & APIs
+├── AI & Automation
+├── Discord Systems
+└── Application Architecture
 
 BUILDING
-├─ Web Applications
-├─ Bots & Automations
-├─ AI Systems
-└─ Developer Tools
+├── Web Applications
+├── Discord Bots
+├── AI Systems
+├── Automation Tools
+└── Developer Utilities
 ```
 
 ---
 
-## `PROJECTS`
+## SELECTED PROJECTS
 
 <table>
 <tr>
@@ -62,9 +63,7 @@ BUILDING
 
 Discord bot focused on **AI, support, moderation, backups and analytics**.
 
-`Python` `Discord` `Groq`
-
-[View project ↗](#)
+`Python` `Discord.py` `Groq`
 
 </td>
 
@@ -72,11 +71,9 @@ Discord bot focused on **AI, support, moderation, backups and analytics**.
 
 ### ◈ Minecraft Marketplace
 
-Discord marketplace with **listings, negotiation, tickets, reputation and payments**.
+Discord marketplace focused on **listings, negotiation, tickets, reputation and payments**.
 
 `Node.js` `Discord.js`
-
-[View project ↗](#)
 
 </td>
 </tr>
@@ -90,8 +87,6 @@ Discord system combining **tickets, XP, moderation, payments and AI**.
 
 `Node.js` `Discord.js` `Groq`
 
-[View project ↗](#)
-
 </td>
 
 <td width="50%" valign="top">
@@ -102,7 +97,7 @@ Personal portfolio focused on **UI, animations, performance and user experience*
 
 `React` `TypeScript` `Tailwind`
 
-[Visit ↗](https://k4nae.vercel.app)
+[Visit portfolio ↗](https://k4nae.vercel.app)
 
 </td>
 </tr>
@@ -110,29 +105,38 @@ Personal portfolio focused on **UI, animations, performance and user experience*
 
 ---
 
-## `GITHUB`
+## GITHUB
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=the-k4nae&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" height="155"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=the-k4nae&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9"
+height="160"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-k4nae&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" height="155"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-k4nae&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"
+height="160"
+/>
 
 </div>
 
 ---
 
-## `ACTIVITY`
+## ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-k4nae&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=the-k4nae&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true"
+width="100%"
+/>
 
 </div>
 
 ---
 
-## `PHILOSOPHY`
+## PHILOSOPHY
 
 ```text
 CREATE
@@ -150,19 +154,17 @@ REPEAT
 
 I don't just want to use technology.
 
-I want to **understand it, experiment with it and build something useful with it**.
+I want to **understand it, experiment with it and build things that are actually useful**.
 
 ---
 
 <div align="center">
 
-### `CREATE · TEST · LEARN · EVOLVE`
-
-<br>
+### CREATE · TEST · LEARN · EVOLVE
 
 [GitHub](https://github.com/the-k4nae) · [Portfolio](https://k4nae.vercel.app)
 
-<br><br>
+<br>
 
 `K4NAE`
 
