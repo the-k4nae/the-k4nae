@@ -1,28 +1,27 @@
-<div align="center">
-
 # `K4NAE`
 
-### `Frontend Developer • Discord Systems • AI • Automation`
+### Frontend Developer · Discord Systems · AI · Automation
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=9B5CFF&center=true&vCenter=true&width=700&lines=Building+interfaces.;Creating+Discord+systems.;Exploring+AI.;Turning+ideas+into+working+products." />
+> Building interfaces, systems and experiments by turning ideas into something real.
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-9B5CFF?style=flat-square&labelColor=0D1117">
-<img src="https://img.shields.io/badge/FOCUS-FULLSTACK-9B5CFF?style=flat-square&labelColor=0D1117">
-<img src="https://komarev.com/ghpvc/?username=the-k4nae&style=flat-square&color=9B5CFF&label=VISITAS">
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-101118?style=flat-square\&logo=github\&logoColor=white)](https://github.com/the-k4nae)
+[![Portfolio](https://img.shields.io/badge/Portfolio-101118?style=flat-square\&logo=vercel\&logoColor=white)](https://k4nae.vercel.app)
 
 </div>
 
 ---
 
-## `SOBRE MIM`
+## `ABOUT`
 
-Sou o **K4NAE**, desenvolvedor focado em criar **interfaces, bots para Discord, sistemas de automação e experiências com IA**.
+I'm **K4NAE**, a developer focused on **Frontend, Discord systems, AI and automation**.
 
-Comecei no Frontend e venho expandindo cada vez mais para Backend, trabalhando principalmente com **TypeScript, JavaScript, React, Next.js, Node.js, Discord.js e Python**.
+I started with Frontend development and I'm now expanding into **Backend, APIs, databases and application architecture**.
 
-Gosto de transformar ideias em sistemas completos, especialmente quando existe algum problema real para resolver.
+I learn by building, experimenting and breaking things until I understand how they work.
 
 ---
 
@@ -30,101 +29,21 @@ Gosto de transformar ideias em sistemas completos, especialmente quando existe a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github&perline=10&theme=dark">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,sqlite,redis,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## `PROJETOS`
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ◈ Darke Store Bot
-
-Bot inteligente para Discord com **IA, suporte, moderação, backups e analytics**.
-
-`Python` `Discord` `Groq`
-
-<a href="https://github.com/the-k4nae/darke-agente-ai">
-
-`VER PROJETO →`
-
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ◈ Minecraft Marketplace
-
-Sistema de marketplace para Discord com **anúncios, tickets, negociação, reputação e pagamentos**.
-
-`Node.js` `Discord.js`
-
-<a href="https://github.com/the-k4nae/minecraft-marketplace-bot-discord">
-
-`VER PROJETO →`
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ◈ Ticket + XP
-
-Sistema completo de **tickets, XP, moderação, pagamentos e IA** para Discord.
-
-`Node.js` `Discord.js` `Groq`
-
-<a href="https://github.com/the-k4nae/ticket-bot-and-farmxp">
-
-`VER PROJETO →`
-
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ◈ Portfolio
-
-Meu portfólio pessoal desenvolvido com foco em **UI, animações, performance e experiência**.
-
-`React` `TypeScript` `Tailwind`
-
-<a href="https://github.com/the-k4nae/Portfolio">
-
-`VER PROJETO →`
-
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `ATUALMENTE`
+## `CURRENTLY`
 
 ```text
-FOCO
-├─ Backend
-├─ APIs
-├─ Sistemas para Discord
-├─ Inteligência Artificial
-└─ Arquitetura de aplicações
+FOCUS
+├─ Backend · APIs · AI
+├─ Discord Systems
+└─ Application Architecture
 
-CONSTRUINDO
+BUILDING
 ├─ Web Applications
 ├─ Bots & Automations
 ├─ AI Systems
@@ -133,54 +52,118 @@ CONSTRUINDO
 
 ---
 
+## `PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Darke Store Bot
+
+Discord bot focused on **AI, support, moderation, backups and analytics**.
+
+`Python` `Discord` `Groq`
+
+[View project ↗](#)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◈ Minecraft Marketplace
+
+Discord marketplace with **listings, negotiation, tickets, reputation and payments**.
+
+`Node.js` `Discord.js`
+
+[View project ↗](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Ticket + XP
+
+Discord system combining **tickets, XP, moderation, payments and AI**.
+
+`Node.js` `Discord.js` `Groq`
+
+[View project ↗](#)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◈ Portfolio
+
+Personal portfolio focused on **UI, animations, performance and user experience**.
+
+`React` `TypeScript` `Tailwind`
+
+[Visit ↗](https://k4nae.vercel.app)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## `GITHUB`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=the-k4nae&show_icons=true&hide_border=true&bg_color=00000000&title_color=9B5CFF&icon_color=9B5CFF&text_color=FFFFFF&include_all_commits=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=the-k4nae&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" height="155"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-k4nae&layout=compact&hide_border=true&bg_color=00000000&title_color=9B5CFF&text_color=FFFFFF&langs_count=6">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=the-k4nae&hide_border=true&background=00000000&ring=9B5CFF&fire=9B5CFF&currStreakLabel=9B5CFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-k4nae&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" height="155"/>
 
 </div>
 
 ---
 
-## `ATIVIDADE`
+## `ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-k4nae&bg_color=00000000&color=FFFFFF&line=9B5CFF&point=9B5CFF&area=true&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-k4nae&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## `CONTATO`
+## `PHILOSOPHY`
+
+```text
+CREATE
+  ↓
+TEST
+  ↓
+BREAK
+  ↓
+UNDERSTAND
+  ↓
+IMPROVE
+  ↓
+REPEAT
+```
+
+I don't just want to use technology.
+
+I want to **understand it, experiment with it and build something useful with it**.
+
+---
 
 <div align="center">
 
-<a href="https://github.com/the-k4nae">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-<a href="https://discord.com/users/">
-<img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=9B5CFF">
-</a>
-
-<a href="mailto:blessedzzwr@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=9B5CFF">
-</a>
-
-</div>
+### `CREATE · TEST · LEARN · EVOLVE`
 
 <br>
 
-<div align="center">
+[GitHub](https://github.com/the-k4nae) · [Portfolio](https://k4nae.vercel.app)
 
-`CRIAR • TESTAR • APRENDER • EVOLUIR`
+<br><br>
+
+`K4NAE`
 
 </div>
