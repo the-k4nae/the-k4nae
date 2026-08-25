@@ -1,32 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:00e5ff&height=180&section=header&text=K4NAE&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16" width="100%"/>
+# `K4NAE`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Future+FullStack+Developer;Building+projects+that+actually+matter." />
+### `Desenvolvedor Frontend → Futuro FullStack`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=9B5CFF&center=true&vCenter=true&width=650&lines=Criando+interfaces.;Desenvolvendo+sistemas.;Aprendendo+backend.;Transformando+ideias+em+c%C3%B3digo." />
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=flat-square&labelColor=050505"/>
-<img src="https://img.shields.io/badge/FOCUS-FULLSTACK-00E5FF?style=flat-square&labelColor=050505"/>
-<img src="https://komarev.com/ghpvc/?username=K4NAE&style=flat-square&color=00e5ff&label=VIEWS"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-9B5CFF?style=flat-square&labelColor=0D1117">
+<img src="https://img.shields.io/badge/FOCO-FULLSTACK-9B5CFF?style=flat-square&labelColor=0D1117">
+<img src="https://komarev.com/ghpvc/?username=K4NAE&style=flat-square&color=9B5CFF&label=VISITAS">
 
 </div>
 
 ---
 
-## `ABOUT`
+## `SOBRE MIM`
 
-```text
-K4NAE
-────────────
-Frontend Developer building towards FullStack.
-
-I enjoy creating interfaces, automations, Discord
-systems and web applications.
-
-Currently focused on improving my backend,
-architecture and system design skills.
-```
+> Desenvolvedor focado em criar interfaces modernas, sistemas úteis e projetos reais.
+>
+> Atualmente evoluindo do Frontend para o FullStack, explorando arquitetura backend, APIs, bancos de dados e deploy.
 
 ---
 
@@ -34,52 +28,82 @@ architecture and system design skills.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,postgres,mongodb,redis,docker,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,postgres,mongodb,redis,docker,git,github&perline=8&theme=dark">
 
 </div>
 
 ---
 
-## `TOOLS`
+## `FERRAMENTAS`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,npm,pnpm,linux,bash,powershell&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,npm,pnpm,linux,bash,powershell&perline=8&theme=dark">
 
 </div>
 
 ---
 
-## `PROJECTS`
+## `PROJETOS`
 
-<div align="center">
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### ◈ Desenvolvimento
+
+Aplicações web, interfaces e experimentos focados em desenvolvimento frontend moderno.
+
+**Tecnologias**
+
+`React` `Next.js` `TypeScript`
+
+<br>
 
 <a href="https://github.com/K4NAE?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=K4NAE&repo=SEU_REPO_1&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff" />
+<img src="https://img.shields.io/badge/VER%20PROJETOS-9B5CFF?style=for-the-badge&labelColor=0D1117">
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◈ Sistemas
+
+Bots, automações, APIs e sistemas backend desenvolvidos para resolver problemas reais.
+
+**Tecnologias**
+
+`Node.js` `Python` `Discord.js`
+
+<br>
 
 <a href="https://github.com/K4NAE?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=K4NAE&repo=SEU_REPO_2&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff" />
+<img src="https://img.shields.io/badge/VER%20PROJETOS-9B5CFF?style=for-the-badge&labelColor=0D1117">
 </a>
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
-## `CURRENTLY`
+## `ATUALMENTE`
 
 ```text
-> Learning
-  Backend Architecture
-  APIs
-  Databases
-  Cloud & Deployment
+APRENDENDO
+├─ Arquitetura Backend
+├─ APIs & REST
+├─ Bancos de Dados
+└─ Cloud & Deploy
 
-> Building
-  Web Applications
-  Discord Systems
-  Automation
-  Developer Tools
+DESENVOLVENDO
+├─ Aplicações Web
+├─ Sistemas para Discord
+├─ Automações
+└─ Ferramentas para Desenvolvedores
 ```
 
 ---
@@ -88,42 +112,42 @@ architecture and system design skills.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=K4NAE&show_icons=true&hide_border=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=K4NAE&show_icons=true&hide_border=true&bg_color=00000000&title_color=9B5CFF&icon_color=9B5CFF&text_color=FFFFFF&include_all_commits=true&count_private=true">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4NAE&layout=compact&hide_border=true&theme=transparent&title_color=00E5FF&text_color=ffffff&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4NAE&layout=compact&hide_border=true&bg_color=00000000&title_color=9B5CFF&text_color=FFFFFF&langs_count=6">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=K4NAE&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+<img src="https://streak-stats.demolab.com?user=K4NAE&hide_border=true&background=00000000&ring=9B5CFF&fire=9B5CFF&currStreakLabel=9B5CFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777">
 
 </div>
 
 ---
 
-## `ACTIVITY`
+## `ATIVIDADE`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=K4NAE&theme=react-dark&hide_border=true&area=true&custom_title=K4NAE%20%2F%2F%20ACTIVITY" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=K4NAE&bg_color=00000000&color=FFFFFF&line=9B5CFF&point=9B5CFF&area=true&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es">
 
 </div>
 
 ---
 
-## `CONTACT`
+## `CONTATO`
 
 <div align="center">
 
 <a href="https://github.com/K4NAE">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=9B5CFF">
 </a>
 
 <a href="https://discord.com/">
-<img src="https://img.shields.io/badge/Discord-050505?style=for-the-badge&logo=discord&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=9B5CFF">
 </a>
 
 </div>
@@ -132,6 +156,6 @@ architecture and system design skills.
 
 <div align="center">
 
-<sub>「 Build. Break. Learn. Rebuild. 」</sub>
+`CRIAR • QUEBRAR • APRENDER • RECONSTRUIR`
 
 </div>
