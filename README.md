@@ -13,6 +13,12 @@
   </a>
 </div>
 
+<p align="center">
+  <sub>Designing interfaces, systems, and experiments with intention.</sub>
+</p>
+
+---
+
 ## About
 
 I’m **K4NAE**, a developer focused on **frontend development, Discord systems, AI, and automation**.
@@ -20,6 +26,8 @@ I’m **K4NAE**, a developer focused on **frontend development, Discord systems,
 I started with interfaces and gradually moved deeper into **backend development, APIs, databases, and system architecture**. I learn by building: sometimes things work, sometimes they explode spectacularly — either way, I come back with a better understanding.
 
 > Building useful things, breaking assumptions, and improving every iteration.
+
+---
 
 ## What I Build
 
@@ -29,6 +37,8 @@ I started with interfaces and gradually moved deeper into **backend development,
 | **Discord systems** | Bots, automation, moderation tools, and community experiences |
 | **AI & automation** | Practical tools that remove repetitive work and turn ideas into products |
 | **Backend & APIs** | Reliable services, integrations, data flows, and system foundations |
+
+---
 
 ## Tech Stack
 
@@ -48,12 +58,16 @@ I started with interfaces and gradually moved deeper into **backend development,
 
 </div>
 
+---
+
 ## Current Direction
 
 - Turning polished frontend work into complete full-stack products
 - Exploring better ways to combine AI with everyday workflows
 - Building Discord systems that are useful, reliable, and easy to maintain
 - Learning through experiments, shipped projects, and honest iteration
+
+---
 
 ## Philosophy
 
