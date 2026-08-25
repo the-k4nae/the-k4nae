@@ -1,23 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:151b24,100:0d1117&height=180&section=header&text=K4NAE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Discord%20Systems%20%C2%B7%20AI%20%C2%B7%20Automation&descAlignY=60&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:0d1117&height=190&section=header&text=K4NAE&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Discord%20Systems%20%C2%B7%20AI%20%C2%B7%20Automation&descAlignY=61&descSize=17&descColor=9da7b3" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+interfaces+that+feel+alive.;Turning+ideas+into+real+products.;Frontend+%E2%86%92+Backend+%E2%86%92+Full-Stack.;Code+%C2%B7+Experiment+%C2%B7+Break+%C2%B7+Understand+%C2%B7+Improve" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Building+interfaces+that+feel+alive.;Turning+ideas+into+real+products.;Frontend+%E2%86%92+Backend+%E2%86%92+Full-Stack.;Code+%C2%B7+Experiment+%C2%B7+Break+%C2%B7+Understand+%C2%B7+Improve" />
 
 <br>
 
 <a href="https://github.com/the-k4nae">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=67E8F9" />
 </a>
 <a href="https://k4nae.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=67E8F9" />
 </a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=67E8F9&height=1&section=header" width="18%" />
 
 </div>
 
----
+<br>
 
 ## About
+
+<div align="center">
+
+<table>
+<tr>
+<td width="80%" align="left">
 
 I'm **K4NAE**, a developer focused on **Frontend development, Discord systems, AI and automation**.
 
@@ -28,11 +38,19 @@ Sometimes things work.
 Sometimes they explode spectacularly.
 Either way, I learn something.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1c2430&height=1&section=header" width="50%" />
+</td>
+</tr>
+</table>
+
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1c2430&height=1&section=header" width="38%" />
+</div>
+
+<br>
 
 ## Tech Stack
 
@@ -42,9 +60,13 @@ Either way, I learn something.
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
 
+<br>
+
 ### Backend & Systems
 
 <img src="https://skillicons.dev/icons?i=nodejs,python,sqlite,redis&theme=dark" />
+
+<br>
 
 ### Tools
 
@@ -52,11 +74,13 @@ Either way, I learn something.
 
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1c2430&height=1&section=header" width="50%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1c2430&height=1&section=header" width="38%" />
 </div>
 
----
+<br>
 
 # What I Build
 
@@ -67,17 +91,17 @@ Either way, I learn something.
 
 <td width="50%" valign="top">
 
-<h3>▸ FRONTEND</h3>
+<h3>▸ <font color="#67E8F9">FRONTEND</font></h3>
 
 <p>I build interfaces that aim to be <strong>clean, responsive and alive</strong>.</p>
 
-<img src="https://img.shields.io/badge/UI_&_UX-10161f?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive-10161f?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Motion-10161f?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Performance-10161f?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Components-10161f?style=flat-square&logoColor=white" />
-
-<br>
+<p>
+<img src="https://img.shields.io/badge/UI_&_UX-111827?style=flat-square&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Responsive-111827?style=flat-square&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Motion-111827?style=flat-square&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Performance-111827?style=flat-square&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Components-111827?style=flat-square&logoColor=67E8F9" />
+</p>
 
 <sub>Interfaces · Design Systems · Micro-interactions · Accessibility</sub>
 
@@ -85,17 +109,17 @@ Either way, I learn something.
 
 <td width="50%" valign="top">
 
-<h3>▸ DISCORD SYSTEMS</h3>
+<h3>▸ <font color="#67E8F9">DISCORD SYSTEMS</font></h3>
 
 <p>I create complete Discord ecosystems instead of just simple bots.</p>
 
-<img src="https://img.shields.io/badge/Bots-10161f?style=flat-square&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/Tickets-10161f?style=flat-square" />
-<img src="https://img.shields.io/badge/Moderation-10161f?style=flat-square" />
-<img src="https://img.shields.io/badge/Economy-10161f?style=flat-square" />
-<img src="https://img.shields.io/badge/Payments-10161f?style=flat-square" />
-
-<br>
+<p>
+<img src="https://img.shields.io/badge/Bots-111827?style=flat-square&logo=discord&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Tickets-111827?style=flat-square&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Moderation-111827?style=flat-square&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Economy-111827?style=flat-square&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Payments-111827?style=flat-square&logoColor=67E8F9" />
+</p>
 
 <sub>Community · Automation · Staff Systems · Server Architecture</sub>
 
@@ -107,16 +131,16 @@ Either way, I learn something.
 
 <td width="50%" valign="top">
 
-<h3>▸ AI & AUTOMATION</h3>
+<h3>▸ <font color="#67E8F9">AI & AUTOMATION</font></h3>
 
 <p>Exploring systems where software can understand context and handle work automatically.</p>
 
-<img src="https://img.shields.io/badge/AI_Assistants-10161f?style=flat-square" />
-<img src="https://img.shields.io/badge/Memory-10161f?style=flat-square" />
-<img src="https://img.shields.io/badge/Workflows-10161f?style=flat-square" />
-<img src="https://img.shields.io/badge/APIs-10161f?style=flat-square" />
-
-<br>
+<p>
+<img src="https://img.shields.io/badge/AI_Assistants-111827?style=flat-square&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Memory-111827?style=flat-square&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Workflows-111827?style=flat-square&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/APIs-111827?style=flat-square&logoColor=67E8F9" />
+</p>
 
 <sub>Context · Intelligence · Integrations · Automation</sub>
 
@@ -124,17 +148,17 @@ Either way, I learn something.
 
 <td width="50%" valign="top">
 
-<h3>▸ BACKEND & ARCHITECTURE</h3>
+<h3>▸ <font color="#67E8F9">BACKEND & ARCHITECTURE</font></h3>
 
 <p>Moving beyond the interface and learning how the systems behind it actually work.</p>
 
-<img src="https://img.shields.io/badge/REST_APIs-10161f?style=flat-square" />
-<img src="https://img.shields.io/badge/Databases-10161f?style=flat-square" />
-<img src="https://img.shields.io/badge/Redis-10161f?style=flat-square" />
-<img src="https://img.shields.io/badge/Auth-10161f?style=flat-square" />
-<img src="https://img.shields.io/badge/Architecture-10161f?style=flat-square" />
-
-<br>
+<p>
+<img src="https://img.shields.io/badge/REST_APIs-111827?style=flat-square&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Databases-111827?style=flat-square&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Redis-111827?style=flat-square&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Auth-111827?style=flat-square&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Architecture-111827?style=flat-square&logoColor=67E8F9" />
+</p>
 
 <sub>Scalability · Data · Services · Full-Stack Development</sub>
 
@@ -145,6 +169,10 @@ Either way, I learn something.
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=67E8F9&height=1&section=header" width="12%" />
+
+<br>
+
 <sub>
 <strong>Interfaces are what people see.</strong><br>
 <strong>Systems are what make them work.</strong>
@@ -152,7 +180,13 @@ Either way, I learn something.
 
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1c2430&height=1&section=header" width="38%" />
+</div>
+
+<br>
 
 # Selected Projects
 
@@ -163,40 +197,39 @@ Either way, I learn something.
 
 <td width="50%" valign="top">
 
-<h3>◈ DARKE STORE BOT</h3>
+<h3>◈ <font color="#67E8F9">DARKE STORE BOT</font></h3>
 
 <p>A Discord system focused on <strong>AI, support, moderation, backups and analytics</strong>.</p>
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" height="28" />
 
-<br>
-
-<code>Python</code> <code>discord.py</code> <code>Groq</code>
-
-<br>
+<p>
+<code>Python</code>
+<code>discord.py</code>
+<code>Groq</code>
+</p>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-0d1117?style=for-the-badge&logo=github&logoColor=67E8F9" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>◈ MINECRAFT MARKETPLACE</h3>
+<h3>◈ <font color="#67E8F9">MINECRAFT MARKETPLACE</font></h3>
 
 <p>A marketplace built around <strong>listings, negotiation, tickets, reputation and payments</strong>.</p>
 
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="28" />
 
-<br>
-
-<code>Node.js</code> <code>Discord.js</code>
-
-<br>
+<p>
+<code>Node.js</code>
+<code>Discord.js</code>
+</p>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-0d1117?style=for-the-badge&logo=github&logoColor=67E8F9" />
 </a>
 
 </td>
@@ -207,40 +240,40 @@ Either way, I learn something.
 
 <td width="50%" valign="top">
 
-<h3>◈ TICKET + XP</h3>
+<h3>◈ <font color="#67E8F9">TICKET + XP</font></h3>
 
 <p>A complete Discord platform combining <strong>tickets, XP, moderation, payments and AI</strong>.</p>
 
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="28" />
 
-<br>
-
-<code>Node.js</code> <code>Discord.js</code> <code>Groq</code>
-
-<br>
+<p>
+<code>Node.js</code>
+<code>Discord.js</code>
+<code>Groq</code>
+</p>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-0d1117?style=for-the-badge&logo=github&logoColor=67E8F9" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>◈ K4NAE PORTFOLIO</h3>
+<h3>◈ <font color="#67E8F9">K4NAE PORTFOLIO</font></h3>
 
 <p>My personal portfolio focused on <strong>interface design, motion, performance and experimentation</strong>.</p>
 
 <img src="https://skillicons.dev/icons?i=react,ts,tailwind&theme=dark" height="28" />
 
-<br>
-
-<code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code>
-
-<br>
+<p>
+<code>React</code>
+<code>TypeScript</code>
+<code>Tailwind CSS</code>
+</p>
 
 <a href="https://k4nae.vercel.app">
-  <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=67E8F9" />
 </a>
 
 </td>
@@ -250,7 +283,7 @@ Either way, I learn something.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1c2430&height=1&section=header" width="40%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1c2430&height=1&section=header" width="28%" />
 
 <br>
 
@@ -260,7 +293,13 @@ More experiments are being built. Most of them start as "this would be cool" and
 
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1c2430&height=1&section=header" width="38%" />
+</div>
+
+<br>
 
 ## Motion & Interaction
 
@@ -275,14 +314,20 @@ My focus is on subtle motion that improves the experience without turning the in
 > Motion should communicate something.
 > Not just move because it can.
 
----
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1c2430&height=1&section=header" width="38%" />
+</div>
+
+<br>
 
 ## GitHub
 
 <div align="center">
 
 <a href="https://github.com/the-k4nae">
-  <img src="https://img.shields.io/badge/GitHub-the--k4nae-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-the--k4nae-0d1117?style=for-the-badge&logo=github&logoColor=67E8F9" />
 </a>
 
 <br><br>
@@ -296,11 +341,17 @@ My focus is on subtle motion that improves the experience without turning the in
 
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=67E8F9&height=1&section=header" width="12%" />
+</div>
+
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:151b24,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:0d1117&height=125&section=footer&animation=fadeIn" width="100%" />
 
 <br>
 
@@ -308,6 +359,6 @@ My focus is on subtle motion that improves the experience without turning the in
 
 <br><br>
 
-<strong>K4NAE</strong>
+<strong><font color="#67E8F9">K4NAE</font></strong>
 
 </div>
